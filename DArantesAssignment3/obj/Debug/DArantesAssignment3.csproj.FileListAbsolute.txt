@@ -1,0 +1,10 @@
+C:\Users\daian\OneDrive\College\Game Prog\DArantesAssignment3\DArantesAssignment3\bin\Debug\DArantesAssignment3.exe.config
+C:\Users\daian\OneDrive\College\Game Prog\DArantesAssignment3\DArantesAssignment3\bin\Debug\DArantesAssignment3.exe
+C:\Users\daian\OneDrive\College\Game Prog\DArantesAssignment3\DArantesAssignment3\bin\Debug\DArantesAssignment3.pdb
+C:\Users\daian\OneDrive\College\Game Prog\DArantesAssignment3\DArantesAssignment3\obj\Debug\DArantesAssignment3.csprojResolveAssemblyReference.cache
+C:\Users\daian\OneDrive\College\Game Prog\DArantesAssignment3\DArantesAssignment3\obj\Debug\DArantesAssignment3.TicTacToeForm.resources
+C:\Users\daian\OneDrive\College\Game Prog\DArantesAssignment3\DArantesAssignment3\obj\Debug\DArantesAssignment3.Properties.Resources.resources
+C:\Users\daian\OneDrive\College\Game Prog\DArantesAssignment3\DArantesAssignment3\obj\Debug\DArantesAssignment3.csproj.GenerateResource.cache
+C:\Users\daian\OneDrive\College\Game Prog\DArantesAssignment3\DArantesAssignment3\obj\Debug\DArantesAssignment3.csproj.CoreCompileInputs.cache
+C:\Users\daian\OneDrive\College\Game Prog\DArantesAssignment3\DArantesAssignment3\obj\Debug\DArantesAssignment3.exe
+C:\Users\daian\OneDrive\College\Game Prog\DArantesAssignment3\DArantesAssignment3\obj\Debug\DArantesAssignment3.pdb
